@@ -1,0 +1,10 @@
+bibentry(bibtype ="Article",
+         title = "massiR: a method for predicting the sex of samples in gene expression microarray datasets",
+         author = c(person("Sam", "Buckberry"),
+                    person("Stephen J", "Bent"),
+                    person("Tina", "Bianco-Miotto"),
+                    person("Claire T", "Roberts")),
+         year = "2014", 
+         journal = "Bioinformatics",
+         doi = "10.1093/bioinformatics/btu161",
+         URL = "http://bioinformatics.oxfordjournals.org/content/early/2014/03/22/bioinformatics.btu161")

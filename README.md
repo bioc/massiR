@@ -3,7 +3,7 @@ bioc_massiR
 
 Repository for the bioconductor package massiR
 
-The problem
+Background
 ------------
 Given that the sex of many species is an easily observable and usually unambiguous classification, it is surprising the number of microarray data sets in public repositories that lack the associated sample sex information. Sex-biased gene expression in normal and pathological tissues is a well recognized for both sex chromosome and autosomal genes.Therefore, the absence of sample sex information restricts the reuse of gene expression data sets where the researcher intends to factor the effect of sex in reanalysis or reinterpretation, or when intending to include such data sets in larger gene expression meta-analyses. 
 

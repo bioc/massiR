@@ -1,7 +1,8 @@
 bioc_massiR
 ===========
 
-Repository for the bioconductor package massiR
+This repo is for the bioconductor package massiR, which enables the prediction of the sex of samples in gene expression microarray datasets. 
+http://www.bioconductor.org/packages/release/bioc/html/massiR.html
 
 Background
 ------------
@@ -9,7 +10,7 @@ Given that the sex of many species is an easily observable and usually unambiguo
 
 This is why we developed massiR, an R package for predicting the sex of samples in microarray data sets. This package allows researchers to expand their analyses to retrospectively incorporate sex as a variable, generate or confirm sex information associated with publicly available data sets, to accurately predict the sex of samples missing sex information, or as a simple sanity check for your own microarray gene expression data.
 
-All of the scripts and documentation for the massiR Bioconductor package are available in this repo.
+All of the scripts and documentation for the massiR Bioconductor package are contained in this repo.
 
 Please cite the below publication if you use massiR in your work:
 

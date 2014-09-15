@@ -127,7 +127,7 @@ The massiR package includes a function which allows various aspects of the data 
 
 To run the massi.plot function with the output from the massi\_select and massi\_cluster functions:
 <<results=hide, eval=FALSE>>=
-massi.cluster.plot(massi.select.out, results)
+massi_cluster_plot(massi.select.out, results)
 @
  This function will generate a heat map with dendrogram of Y chromosome probes as rows and individual samples in columns (Figure 2), a bar plot of mean values and standard deviation from the subset of Y chromosome probes used in K-medoids clustering (Figure 3), with the bars colored with respect to predicted sex and a principal component plot showing clusters (Figure 4). These plots can aid the user in identifying sample outliers or probes that may not be informative in the clustering step. 
 

@@ -2,7 +2,7 @@ Package: massiR
 Type: Package
 Title: massiR: MicroArray Sample Sex Identifier
 Version: 1.1.1
-Date: 2014-03-31
+Date: 2014-09-15
 Author: Sam Buckberry
 Maintainer: Sam Buckberry <sam.buckberry@adelaide.edu.au>
 Description: Predicts the sex of samples in gene expression microarray

@@ -1,5 +1,5 @@
 exportPattern("^[[:alpha:]]+")
-import(fpc)
+import(cluster)
 import(diptest)
 import(gplots)
 import(Biobase)
